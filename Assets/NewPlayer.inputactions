@@ -1,0 +1,34 @@
+{
+    "name": "NewPlayer",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "becf55c1-a092-489f-99e9-4615ac36fdaf",
+            "actions": [
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "d7144371-ad92-439d-81da-f4b47050ae2c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "52fc504f-5815-442c-9456-08579757311d",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
